@@ -6,7 +6,7 @@ Educator building AI learning tools. After 10 years teaching English in Brazil, 
 
 - **TeachAssist AI**: a Chrome extension and React dashboard that records online classes in stereo, transcribes them with Deepgram, and uses Gemini to generate lesson summaries and teacher snapshots.
 - **AI Homework Builder**: a self-correcting homework app that gives students instant, per-question AI feedback.
-- **My Class Recorder**: a lightweight Chrome extension that records and transcribes Google Meet and Microsoft Teams classes with AssemblyAI.
+- **My Class Recorder**: a lightweight Chrome extension that records and transcribes Google Meet and Microsoft Teams classes with Deepgram, with automatic audio recovery so no class is ever lost.
 
 ## Tools I work with
 
